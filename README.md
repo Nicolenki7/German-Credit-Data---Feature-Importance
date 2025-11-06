@@ -34,6 +34,7 @@ El proyecto abordó y corrigió activamente inconsistencias críticas en la fuen
 | :--- | :--- |
 | **Dashboard Ejecutivo (Looker Studio)** | [https://lookerstudio.google.com/s/iw0qzisBiFk](https://lookerstudio.google.com/s/iw0qzisBiFk) |
 | **Código y Scripts de Análisis (GitHub)** | [https://github.com/Nicolenki7/German-Credit-Data---Feature-Importance](https://github.com/Nicolenki7/German-Credit-Data---Feature-Importance) |
+| **Kaggle** | https://www.kaggle.com/code/nicolaszalazar73/credit-scoring-360-notebook
 
 | Herramienta | Uso en el Proyecto |
 | :--- | :--- |
